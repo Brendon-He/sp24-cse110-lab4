@@ -1,0 +1,2 @@
+1. The data type was string, so it was concatenating num1 and num2 together.
+2. I fixed it by forcing the ode to recognize both num1 and num2 as numbers using the Number() function before it added them together.
